@@ -1,0 +1,1 @@
+O processo de TDD consiste em escrever o teste, rodar ele e ver se falha. Em seguida, escreve-se o código da aplicação e o teste é rodado novamente, repetindo até passar, podendo também refatorar o código em meio a esse processo. Isso ocorre tanto com testes de unidade como testes funcionais, que são escritos para testar a aplicação em meio aos testes de unidade.
